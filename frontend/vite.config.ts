@@ -13,8 +13,5 @@ export default defineConfig({
   build: {
     outDir,
     emptyOutDir: true,
-    rollupOptions: {
-      // Optional: if you have multiple entry points or need specific settings
-    },
   },
 });
